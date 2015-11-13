@@ -1,0 +1,18 @@
+
+h1 {
+  color: blue;
+  text-decoration: underline;
+  font-family: sans-serif;
+}
+
+h3 {
+  color: blue;
+  font-family: sans-serif;
+}
+
+.qHead {
+  color: orange;
+  font-size: 1.25em;
+  border: solid;
+  background-color: blue;
+}
